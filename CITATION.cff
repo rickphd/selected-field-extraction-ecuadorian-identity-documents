@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Selected-Field Extraction from Ecuadorian Identity Documents"
+message: "If you use this repository, please cite the associated manuscript and the repository release."
+type: software
+authors:
+  - family-names: "Astudillo"
+    given-names: "Jefferson"
+  - family-names: "Flores-Moyano"
+    given-names: "Ricardo"
+  - family-names: "Vega-Sánchez"
+    given-names: "José"
+repository-code: "https://github.com/rickphd/selected-field-extraction-ecuadorian-identity-documents"
+abstract: "Public code-and-evidence companion repository for a scoped selected-field extraction pipeline on Ecuadorian identity documents, including segmentation-orientation, oriented detection, OCR, and deployment-support artifacts."
+keywords:
+  - identity document recognition
+  - document information extraction
+  - optical character recognition
+  - oriented object detection
+  - embedded inference

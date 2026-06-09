@@ -1,0 +1,8 @@
+path: ./dataset_plus10w_15h
+train: images/train
+val: images/val
+task: object-detection
+names:
+  0: apellidos
+  1: nombres
+  2: numero_cedula

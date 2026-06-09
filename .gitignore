@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS/editor noise
+.DS_Store
+
+# Large binary artifacts that must not be added accidentally
+*.pth
+*.pt
+*.onnx
+*.onnx.data
+*.rknn
+
+# Sensitive or private data
+data/
+private_data/
+uploads/
+Recorte/
+runs/**/weights/

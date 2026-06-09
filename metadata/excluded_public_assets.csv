@@ -1,0 +1,21 @@
+path,category,reason
+datos_complementarios/Trasnform_onnx/ocr_transformer/best_model_transformer.pth,large_model_binary,Model-weight artifact not included in the public repository
+datos_complementarios/Trasnform_onnx/ocr_transformer/model_ocr.onnx.data,large_model_binary,Large ONNX tensor-data artifact not included in the public repository
+datos_complementarios/Trasnform_onnx/models/model_ocr.onnx,large_model_binary,Exported model artifact not included in the public repository
+datos_complementarios/Trasnform_onnx/models/model_rotseg.onnx,large_model_binary,Exported model artifact not included in the public repository
+datos_complementarios/Trasnform_onnx/models/model_rotseg.rknn,hardware_specific_binary,Hardware-specific deployment artifact not included in the public repository
+datos_complementarios/Trasnform_onnx/best_etiquetas.onnx,large_model_binary,Exported model artifact not included in the public repository
+datos_complementarios/Trasnform_onnx/yolo11n.onnx,large_model_binary,Exported model artifact not included in the public repository
+datos_complementarios/Trasnform_onnx/best_etiquetas.pt,large_model_binary,Training-checkpoint artifact not included in the public repository
+datos_complementarios/Trasnform_onnx/yolo11n.pt,large_model_binary,Training-checkpoint artifact not included in the public repository
+datos_complementarios/Trasnform_onnx/yolo11n_rknn_model/,hardware_specific_binary,Hardware-specific deployment directory not included in the public repository
+datos_complementarios/Trasnform_onnx/best_etiquetas_rknn_model/,hardware_specific_binary,Hardware-specific deployment directory not included in the public repository
+datos_complementarios/Trasnform_onnx/Testig_Montecarlo/,sample_or_bulky_images,Intermediate image directory not included in the public repository
+datos_complementarios/YOLO-OBB/runs/obb/yolo11_obb_custom6/weights/,large_model_binary,Training-weight directory not included in the public repository
+Repositorio_github/Testing_final/test.ipynb,sample_specific_notebook_output,Notebook output traces not included in the public repository
+Repositorio_github/OCR_trainer/test.ipynb,sample_specific_notebook_output,Notebook output traces not included in the public repository
+Repositorio_github/OCR_trainer/recortar.ipynb,sample_specific_notebook_output,Notebook output traces not included in the public repository
+Repositorio_github/Mascaras/transform_mask.ipynb,sample_specific_notebook_output,Notebook output traces not included in the public repository
+Repositorio_github/Transform_onnx/Inference_RKNN/prob_pipeplane_onnx.ipynb,sample_specific_notebook_output,Notebook output traces not included in the public repository
+Repositorio_github/Transform_onnx/Inference_RKNN/prob_pipeplane_rknn.ipynb,sample_specific_notebook_output,Notebook output traces not included in the public repository
+datos_complementarios/Trasnform_onnx/Inference_RKNN/prob_pipeplane_rknn.ipynb,sample_specific_notebook_output,Notebook output traces not included in the public repository

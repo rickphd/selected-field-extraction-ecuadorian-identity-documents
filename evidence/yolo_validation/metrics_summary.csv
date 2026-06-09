@@ -1,0 +1,11 @@
+Metric,Minimum Value,Min at Epoch,Maximum Value,Max at Epoch
+train/box_loss,0.66736,134,1.48216,1
+train/cls_loss,0.39382,140,1.96752,1
+train/dfl_loss,1.46264,134,2.26006,1
+val/box_loss,0.63038,138,1.16818,1
+val/cls_loss,0.34065,131,1.31469,1
+val/dfl_loss,2.01793,62,2.46213,1
+metrics/precision(B),0.67142,1,0.99499,64
+metrics/recall(B),0.72388,1,0.98371,127
+metrics/mAP50(B),0.73700,1,0.99396,120
+metrics/mAP50-95(B),0.51416,1,0.88233,131

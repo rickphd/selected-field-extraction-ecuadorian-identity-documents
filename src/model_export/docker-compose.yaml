@@ -1,0 +1,8 @@
+services:
+  yolo-cuda:
+    build: .
+    container_name: yolo_rknn
+    tty: true
+    runtime: nvidia
+    volumes:
+      - .:/app

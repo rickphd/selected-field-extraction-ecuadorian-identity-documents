@@ -1,0 +1,20 @@
+description: Ultralytics YOLO11n-obb model trained on data.yaml
+author: Ultralytics
+date: '2025-11-12T02:30:02.954669'
+version: 8.3.224
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: obb
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: apellidos
+  1: nombres
+  2: numero_cedula
+args:
+  batch: 1
+  name: rk3588
+channels: 3

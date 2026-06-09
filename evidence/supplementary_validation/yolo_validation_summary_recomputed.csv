@@ -1,0 +1,11 @@
+metric,min_value,min_epoch,max_value,max_epoch,last_value,last_epoch
+metrics/precision(B),0.67142,1,0.99499,64,0.98574,141
+metrics/recall(B),0.72388,1,0.98371,127,0.9831,141
+metrics/mAP50(B),0.737,1,0.99396,120,0.99352,141
+metrics/mAP50-95(B),0.51416,1,0.88233,131,0.8819,141
+val/box_loss,0.63038,138,1.16818,1,0.63084,141
+val/cls_loss,0.34065,131,1.31469,1,0.34301,141
+val/dfl_loss,2.01793,62,2.46213,1,2.04572,141
+train/box_loss,0.66736,134,1.48216,1,0.67951,141
+train/cls_loss,0.39382,140,1.96752,1,0.39583,141
+train/dfl_loss,1.46264,134,2.26006,1,1.46384,141
